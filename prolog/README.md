@@ -1,4 +1,4 @@
-The sudoku solver written by prolog.
+The sudoku solver written in gprolog.
 ====
 
 # How to install gprolog.
