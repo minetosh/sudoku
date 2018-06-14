@@ -24,7 +24,7 @@ Row8 = [_, _, 8, 5, _, _, _, 1, _],
 Row9 = [_, 9, _, _, _, _, 4, _, _],  
 sudoku([Row1, Row2, Row3, Row4, Row5, Row6, Row7, Row8, Row9]).
 
-Then, you get a answere.
+Then, you get all answers.
 
 Row1 = [8,1,2,7,5,3,6,4,9]  
 Row2 = [9,4,3,6,8,2,1,7,5]  
